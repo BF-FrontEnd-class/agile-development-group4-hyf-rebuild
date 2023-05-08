@@ -2,11 +2,9 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+![Home and Program pages](../public/img/design.png_1.png)
+![Volunteer, Digitalents and About Pages](../public/img/design.png_2.png)
+![FAQ? Support us and Apply now pages](../public/img/design.png_3.png)
 
 ---
 
@@ -14,4 +12,4 @@
 
 > Include your wireframe(s) and link to wireframe
 
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+[Excalidraw](https://excalidraw.com/#room=bdb0d83cf5cde8d5b0f9,MxZ_XluL9gGwG1tRvjY2PA)
