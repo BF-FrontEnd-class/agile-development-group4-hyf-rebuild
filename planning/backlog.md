@@ -1,30 +1,359 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+## Home page
 
-## Must-Haves
+## The Program
 
-> these are necessary for basic usability
+### Must-Haves
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+#### Logo
 
-## Should-Haves
+- [ ] As an user I can find the logo
+  - _There's a logo with correct image with the main name of the page._
 
-> these will complete the user experience, but are not necessary
+#### Navigation bar
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As an user I can navigate through three elements : Home, Program,
+      Volunteer, Digitalents, About us, FAQ, Support us and Apply now
+- _There's a navigation bar with the links_
 
-## Could-Haves
+#### Title
 
-> would be really cool ... if there's time
+- [ ] As an user I can find the title
+- _There's is a clear title in the landing page_
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+#### General Description
+
+- [ ] As an user I can easily tell what the page is all about
+- _There's a short description_
+
+#### Images
+
+- [ ] As a user I want to see images with short definition
+- _There's a image with short description_
+
+#### Button
+
+- [ ] As a user I want to see Button with short definition
+- _There's a short description with the text button_
+
+#### Link
+
+- [ ] As an user I can easily click on a title in the summary and information
+- _There's a links which navigate to another page_
+
+#### Footer
+
+- [ ] As a user I want to see the footer
+  - _Additionally, the footer could links to relevant resources_
+
+### Should-Haves
+
+#### Images
+
+- [ ] As a user I want to see images with short definition.
+- _There's a image with short description_
+
+## Volunteer
+
+### Must-Haves
+
+#### Logo
+
+- [ ] As an user I can find the logo
+  - _There's a logo with correct image with the main name of the page._
+
+#### Navigation bar
+
+- [ ] As an user I can navigate through three elements : Home, Program,
+      Volunteer, Digitalents, About us, FAQ, Support us and Apply now.
+- _There's a navigation bar with the links._
+
+#### Title
+
+- [ ] As an user I can find the title
+- _There's is a clear title in the landing page_
+
+#### General Description
+
+- [ ] As an user I can easily tell what the page is all about
+- _There's a short description_
+
+#### Images
+
+- [ ] As a user I want to see images with short definition.
+- _There's a image with short description_
+
+#### Button
+
+- [ ] As a user I want to see Button with short definition
+- _There's a short description with the text button_
+
+#### Footer
+
+- [ ] As a user I want to see the footer
+  - _Additionally, the footer could links to relevant resources_
+
+### Could-Haves
+
+#### Images
+
+- [ ] As a user I want to see images with short definition.
+- _There's a image with short description_
+
+#### Button
+
+- [ ] As a user I want to see Button with short definition
+- _There's a short description with the text button_
+
+#### General Description
+
+- [ ] As an user I can easily tell what the page is all about
+- _There's a short description_
+
+## Digitalents
+
+### Must-Haves
+
+#### Logo
+
+- [ ] As an user I can find the logo
+  - _There's a logo with correct image with the main name of the page._
+
+#### Navigation bar
+
+- [ ] As an user I can navigate through three elements : Home, Program,
+      Volunteer, Digitalents, About us, FAQ, Support us and Apply now
+- _There's a navigation bar with the links_
+
+#### Title
+
+- [ ] As an user I can find the title
+- _There's is a clear title in the landing page_
+
+#### General Description
+
+- [ ] As an user I can easily tell what the page is all about
+- _There's a short description_
+
+#### Button
+
+- [ ] As a user I want to see Button with short definition
+- _There's a short description with the text button_
+
+#### Images
+
+- [ ] As a user I want to see images with short definition.
+- _There's a image with short description_
+
+#### Footer
+
+- [ ] As a user I want to see the footer
+  - _Additionally, the footer could links to relevant resources_
+
+## About
+
+### Must-Haves
+
+#### Logo
+
+- [ ] As an user I can find the logo
+  - _There's a logo with correct image with the main name of the page._
+
+#### Navigation bar
+
+- [ ] As an user I can navigate through three elements : Home, Program,
+      Volunteer, Digitalents, About us, FAQ, Support us and Apply now
+- _There's a navigation bar with the links_
+
+#### Title
+
+- [ ] As an user I can find the title
+- _There's is a clear title in the landing page_
+
+#### General Description
+
+- [ ] As an user I can easily tell what the page is all about
+- _There's a short description_
+
+#### Button
+
+- [ ] As a user I want to see Button with short definition
+- _There's a short description with the text button_
+
+#### Images
+
+- [ ] As a user I want to see images with short definition.
+- _There's a image with short description_
+
+#### Footer
+
+- [ ] As a user I want to see the footer
+  - _Additionally, the footer could links to relevant resources_
+
+#### Link
+
+- [ ] As an user I can easily click on a title in the summary and information
+- _There's a links which navigate to another page_
+
+### Should-Haves
+
+#### Images
+
+- [ ] As a user I want to see images with short definition.
+- _There's a short description_
+
+#### General Description
+
+- [ ] As an user I can easily tell what the page is all about
+- _There's a short description_
+
+## The Program
+
+### Must-Haves
+
+#### Logo
+
+- [ ] As an user I can find the logo
+  - _There's a logo with correct image with the main name of the page._
+
+#### Navigation bar
+
+- [ ] As an user I can navigate through three elements : Home, Program,
+      Volunteer, Digitalents, About us, FAQ, Support us and Apply now
+- _There's a navigation bar with the links_
+
+#### Title
+
+- [ ] As an user I can find the title
+- _There's is a clear title in the landing page_
+
+#### General Description
+
+- [ ] As an user I can easily tell what the page is all about
+- _There's a short description_
+
+#### Images
+
+- [ ] As a user I want to see images with short definition
+- _There's a image with short description_
+
+#### Button
+
+- [ ] As a user I want to see Button with short definition
+- _There's a short description with the text button_
+
+#### Link
+
+- [ ] As an user I can easily click on a title in the summary and information
+- _There's a links which navigate to another page_
+
+#### Footer
+
+- [ ] As a user I want to see the footer
+  - _Additionally, the footer could links to relevant resources_
+
+### Should-Haves
+
+#### Images
+
+- [ ] As a user I want to see images with short definition.
+- _There's a image with short description_
+
+## FAQ
+
+### Must-Haves
+
+#### Logo
+
+- [ ] As an user I can find the logo
+  - _There's a logo with correct image with the main name of the page._
+
+#### Navigation bar
+
+- [ ] As an user I can navigate through three elements : Home, Program,
+      Volunteer, Digitalents, About us, FAQ, Support us and Apply now
+- _There's a navigation bar with the links_
+
+#### Title
+
+- [ ] As an user I can find the title
+- _There's is a clear title in the landing page_
+
+#### Short Description
+
+- [ ] As an user I can easily tell what the page is all about
+- _There's a short description_
+
+#### Images
+
+- [ ] As a user I want to see images with short definition
+- _There's a image with short description_
+
+#### Link
+
+- [ ] As an user I can easily click on a title in the summary and information
+- _There's a links which navigate to another page_
+
+#### Footer
+
+- [ ] As a user I want to see the footer
+  - _Additionally, the footer could links to relevant resources_
+
+### Should-Haves
+
+#### Link
+
+- [ ] As an user I can easily click on a title in the summary and information
+- _There's a links which navigate to another page_
+
+#### Short Description
+
+- [ ] As an user I can easily tell what the page is all about
+- _There's a short description_
+
+## Support us
+
+### Must-Haves
+
+#### Logo
+
+- [ ] As an user I can find the logo
+  - _There's a logo with correct image with the main name of the page._
+
+#### Navigation bar
+
+- [ ] As an user I can navigate through three elements : Home, Program,
+      Volunteer, Digitalents, About us, FAQ, Support us and Apply now
+- _There's a navigation bar with the links_
+
+#### Title
+
+- [ ] As an user I can find the title
+- _There's is a clear title in the landing page_
+
+#### Short Description
+
+- [ ] As an user I can easily tell what the page is all about
+- _There's a short description_
+
+#### Images
+
+- [ ] As a user I want to see images with short definition
+- _There's a image with short description_
+
+#### Link
+
+- [ ] As an user I can easily click on a title in the summary and information
+- _There's a links which navigate to another page_
+
+#### Footer
+
+- [ ] As a user I want to see the footer
+
+  - _Additionally, the footer could links to relevant resources_
+
+  #### Form
+
+- [ ] As an user I can request a demo submitting a form
+- _There's a main content with the text and image_
