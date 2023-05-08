@@ -4,6 +4,8 @@
     "HackYourFutureBelgium",
     "HackYourFuture",
     "Nepo",
+    "Wireframe",
+    "DIGITALENTS",
     "Internale",
     "wireframe",
     "Wireframe",
@@ -43,7 +45,6 @@
     "Verwijs",
     "Todos"
   ],
-
   "ignorePaths": [
     "node_modules/**",
     "package.json",
