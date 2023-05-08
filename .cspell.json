@@ -26,7 +26,23 @@
     "Todos",
     "Wireframes"
   ],
-  "words": ["HackYourFutureBelgium", "HackYourFuture", "Nepo", "Wireframe", "wireframe", "Ponomarev", "Lant", "Yodiz", "Zepel", "Excalidraw", "Wireframes", "Bilde", "Christiaan", "Verwijs", "Todos"],
+  "words": [
+    "HackYourFutureBelgium",
+    "HackYourFuture",
+    "Nepo",
+    "Wireframe",
+    "wireframe",
+    "Ponomarev",
+    "Lant",
+    "Yodiz",
+    "Zepel",
+    "Excalidraw",
+    "Wireframes",
+    "Bilde",
+    "Christiaan",
+    "Verwijs",
+    "Todos"
+  ],
 
   "ignorePaths": [
     "node_modules/**",
