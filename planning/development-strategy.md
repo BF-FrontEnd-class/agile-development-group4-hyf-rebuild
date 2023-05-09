@@ -34,11 +34,11 @@
 
 - This feature developed on a branch logo.
 
-##### HTML
+#### HTML
 
 - Add img tag
 
-##### CSS
+#### css
 
 - Add logo class to img
 
@@ -48,11 +48,11 @@
 - The website needs navigation bar.
 - This feature developed on a branch navigation-bar.
 
-##### HTML
+#### HTML
 
 - add nav tag
 
-##### CSS
+#### css
 
 - Add navigation class to logo
 
@@ -828,7 +828,7 @@ As an user I can easily tell who is member of Hack your future.
 
 ## 8. Apply Now
 
-#### Hack your future image
+### Hack your future image
 
 - As a user I want to see of HYF
 
