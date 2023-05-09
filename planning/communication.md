@@ -1,44 +1,52 @@
 # Communication
 
+- Communication is a part of Planning.
+
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
+- We are going to help each team member for the project.
+- Be respectful with our team members .
+- Be open for feedback about participation in project.Be open for feedback about
+  participation in project.
 
----
+- Avoid interrupting while others are speaking .
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day   |      How      | The topic of discussion                  |
+| ----- | :-----------: | ---------------------------------------- |
+| Day 1 |    onsite     | Defining project constraints and goals . |
+| Day 2 | online (zoom) | Defining project constraints and goals . |
+| Day 3 | online (zoom) | Defining project constraints and goals   |
+| Day 4 |    onsite     | Defining project constraints and goals   |
+| Day 5 | online (zoom) | Defining project constraints and goals   |
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+- how often will we get in touch on each channel, and what we will discuss
+  there:
 
 - **Issues**:
 - **Pull Requests**:
 - **GitHub Discussions**
-- **Slack/Discord**:
+- **Slack**:
 - **Video Calls**:
-
----
-
-## Availability
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day      | Monday | Tuesday | Wednesday | Thursday | Friday |
+| -------- | :----: | :-----: | :-------: | :------: | :----: |
+| Ervin    | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |
+| Himanshi | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |
+| Komal    | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |
+| Rahwa    | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Ervin: \_8h
+- Himanshi: \_8h
+- Komal: \_8h
+- Rahwa: \_8h
 
 ## Asking for Help
 
