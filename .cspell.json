@@ -26,9 +26,7 @@
     "achecker",
     "achecker",
     "Todos",
-    "Wireframes"
-  ],
-  "words": [
+    "Wireframes",
     "HackYourFutureBelgium",
     "HackYourFuture",
     "Nepo",
@@ -43,8 +41,19 @@
     "Bilde",
     "Christiaan",
     "Verwijs",
-    "Todos"
-  ],
+    "Todos",
+    "continaing",
+    "privious",
+    "Himanshi",
+    "Komal",
+    "Rahwa",
+    "theimg",
+    "desciption",
+    "Mamutov",
+    "suport",
+    "Saxena",
+    "Kinfe"
+    ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
