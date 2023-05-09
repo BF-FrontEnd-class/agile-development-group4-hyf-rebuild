@@ -53,7 +53,8 @@
     "continaing",
     "privious",
     "Komal",
-    "theimg"
+    "theimg",
+    "suport"
   ],
   "ignorePaths": [
     "node_modules/**",
