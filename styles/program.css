@@ -2,6 +2,8 @@ body {
   background-color: white;
 }
 
+/* ------------- header ------------- */
+
 .header {
   display: flex;
   width: 100%;
@@ -33,6 +35,8 @@ body {
   padding: 0;
 }
 
+/* ------------- logo ------------- */
+
 .logo {
   display: flex;
   -webkit-box-pack: center;
@@ -48,3 +52,67 @@ body {
   object-fit: contain;
   border-radius: 0;
 }
+
+/* ------------- navbar ------------- */
+
+.navbar {
+  display: flex;
+  -webkit-box-pack: end;
+  justify-content: flex-end;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-flex: 1;
+  flex-grow: 1;
+  flex-direction: row;
+}
+
+.navbar-program {
+  display: inline-flex;
+  -webkit-box-align: center;
+  align-items: center;
+  height: 100%;
+  color: rgb(127, 127, 127);
+  font-size: 12px;
+  line-height: 160%;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  font-family: "Work Sans", sans-serif;
+}
+
+.navbar-links {
+  display: inline-flex;
+  -webkit-box-align: center;
+  align-items: center;
+  height: 100%;
+  color: rgb(127, 127, 127);
+  font-size: 12px;
+  line-height: 160%;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  font-family: "Work Sans", sans-serif;
+}
+
+.navbar-links__blank {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+}
+
+/* ------------- header ------------- */
+
+/* ------------- header ------------- */
+
+/* ------------- header ------------- */
