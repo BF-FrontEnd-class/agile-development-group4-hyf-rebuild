@@ -162,6 +162,8 @@ body {
   box-sizing: border-box;
 }
 
+/* ------------- introduction ------------- */
+
 .introduction {
   display: flex;
   -webkit-box-pack: center;
@@ -212,7 +214,7 @@ body {
 
 .text__normal {
   color: rgb(45, 48, 55);
-  text-align: left;
+  text-align: end;
   max-width: none;
   line-height: 160%;
   font-size: 16px;
@@ -233,7 +235,7 @@ body {
 .text-underline {
   text-decoration: underline;
   color: rgb(74, 80, 187);
-  text-align: left;
+  text-align: end;
   max-width: none;
   line-height: 160%;
   font-size: 16px;
@@ -258,6 +260,86 @@ body {
   height: 100%;
   object-fit: cover;
   border-radius: 0;
+}
+
+/* ------------- apply ------------- */
+
+.apply {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  box-shadow: none;
+  background: rgb(248, 249, 252);
+  z-index: 1;
+  flex: 0 0 auto;
+}
+
+.apply__body {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0;
+  margin: 0 auto;
+}
+
+.apply__text {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.apply__title {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+
+.apply__subtitle {
+  display: flex;
+}
+
+.text__left {
+  padding-right: 100px;
+  width: 45%;
+}
+
+.apply__text-normal {
+  color: rgb(45, 48, 55);
+  text-align: right;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.text__right {
+  display: flex;
+  flex-direction: column;
+}
+
+.list-items {
+  position: relative;
+  padding-left: 30px;
+  margin: 3px 0;
 }
 
 /* 
