@@ -88,6 +88,7 @@
   display: flex;
   font-size: 12px;
   line-height: 160%;
+  color: white;
   background-color: rgb(74, 80, 187);
   border-radius: 5px;
 }
@@ -628,16 +629,87 @@ main {
 
 /** contact us **/
 
-.contactus {
+.contact-map-container {
+  display: flex;
+  margin: 20px;
+  justify-content: space-around;
+  width: 90%;
+}
+
+.contact {
+  height: 100%;
+  background-color: rgb(74, 80, 187);
+  padding: 50px 50px;
+  width: 50%;
+}
+
+.contact-text h1 {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  color: rgb(255, 255, 255);
+  text-align: left;
+}
+
+.contact-text p {
+  color: white;
+  text-align: left;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0 0 20px;
+  word-break: break-word;
+}
+
+.contact-form label {
+  color: white;
+  text-align: left;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 20px 0 5px;
+  word-break: break-word;
+}
+
+.contact-form-info {
+  border: 1px solid white;
+  border-radius: 3px;
+  outline: none;
+  background-color: transparent;
+  padding: 10px 5px;
+  color: white;
   width: 100%;
 }
 
-.contactus-div {
-  width: 80%;
+.contact-form textarea {
+  border: 1px solid white;
+  border-radius: 3px;
+  outline: none;
+  padding: 10px 5px;
+  color: white;
+  background-color: transparent;
+  margin-bottom: 20px;
+  width: 100%;
 }
 
-.contactus-div-form {
-  width: 50%;
+.contact-form button {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: white;
+  color: rgb(45, 48, 55);
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
 }
 
 .contactus-div-map {
