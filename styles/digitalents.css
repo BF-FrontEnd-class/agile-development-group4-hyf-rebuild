@@ -75,12 +75,11 @@ body {
 
 /* description */
 
-.description {
+.descri {
   display: flex;
   -webkit-box-pack: center;
   justify-content: center;
   width: 100%;
-  padding: 50px 20px;
   position: relative;
   box-shadow: none;
   background: none;
@@ -107,18 +106,20 @@ body {
   max-width: 37%;
   justify-content: center;
   align-items: center;
-  text-align: center;
+  text-align: left;
 }
 
 .descri-title {
-  font-size: 36px;
-  line-height: 120%;
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+  line-height: 140%;
   margin-bottom: 20px;
-  text-transform: uppercase;
+  text-transform: none;
   font-family: "Work Sans", sans-serif;
   font-weight: 700;
   color: rgb(28, 34, 148);
-  max-width: none;
+  text-align: center;
 }
 
 .descri-paragraph {
@@ -126,7 +127,8 @@ body {
   line-height: 160%;
   font-size: 16px;
   font-family: "Space Mono", monospace;
-  margin: 0;
+  margin: 5px;
+  text-align: center;
 }
 
 /* Digitalents program tracks */
@@ -156,6 +158,7 @@ body {
   text-transform: none;
   font-family: "Work Sans", sans-serif;
   font-weight: 700;
+  padding-top: 10px;
   color: rgb(28, 34, 148);
   text-align: center;
 }
