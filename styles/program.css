@@ -76,7 +76,7 @@ body {
   background: none 0% 0% / auto transparent;
   flex: 0 1 100%;
   margin: auto;
-  padding: 0;
+  padding: 20px 10px 20px 10px;
 }
 
 /* ------------- logo ------------- */
@@ -86,6 +86,7 @@ body {
   justify-content: center;
   -webkit-box-align: center;
   align-items: center;
+  margin-left: 100px;
   height: 60%;
 }
 
@@ -112,7 +113,7 @@ body {
   align-items: center;
   height: 100%;
   color: rgb(127, 127, 127);
-  font-size: 12px;
+  font-size: 14px;
   line-height: 160%;
   text-transform: uppercase;
   padding: 10px 20px;
@@ -130,11 +131,12 @@ body {
   align-items: center;
   height: 100%;
   color: rgb(127, 127, 127);
-  font-size: 12px;
+  font-size: 14px;
   line-height: 160%;
   text-transform: uppercase;
   padding: 10px 20px;
   font-family: "Work Sans", sans-serif;
+  text-decoration: none;
 }
 
 .menu__link:hover {
@@ -161,6 +163,12 @@ body {
   -webkit-box-align: center;
   align-items: center;
   font-family: "Work Sans", sans-serif;
+}
+
+.menu__link-blank:hover {
+  font-size: 14px;
+  border-radius: 10px;
+  box-shadow: 3px 1px 1px rgb(42, 47, 154);
 }
 
 /* ------------- main ------------- */
