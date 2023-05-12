@@ -122,9 +122,11 @@ body {
 }
 
 .descri-paragraph {
-  color: rgb(45, 48, 55);
+  color: rgb(63, 66, 74);
+  line-height: 160%;
   font-size: 16px;
   font-family: "Space Mono", monospace;
+  margin: 0;
 }
 
 /* Digitalents program tracks */
@@ -144,7 +146,7 @@ body {
 
 /* Title */
 
-.tracks-title {
+.tracks-title h3 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -154,7 +156,7 @@ body {
   text-transform: none;
   font-family: "Work Sans", sans-serif;
   font-weight: 700;
-  color: rgb(74, 80, 187);
+  color: rgb(28, 34, 148);
   text-align: center;
 }
 
@@ -179,10 +181,12 @@ body {
 }
 
 .typescript-paragraph {
-  color: rgb(45, 48, 55);
-  text-align: left;
+  color: rgb(63, 66, 74);
+  line-height: 160%;
   font-size: 16px;
   font-family: "Space Mono", monospace;
+  margin: 0;
+  text-align: left;
 }
 
 /* asap_net */
@@ -206,10 +210,12 @@ body {
 }
 
 .asp-net_paragraph {
-  color: rgb(45, 48, 55);
-  text-align: left;
+  color: rgb(63, 66, 74);
+  line-height: 160%;
   font-size: 16px;
   font-family: "Space Mono", monospace;
+  margin: 0;
+  text-align: left;
 }
 
 /* For who? */
@@ -312,8 +318,8 @@ body {
   text-align: left;
   max-width: none;
   line-height: 160%;
-  font-size: 19px;
-  font-family: "Work Sans", sans-serif;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
   margin: 0px;
   word-break: break-word;
   font-weight: 300;
