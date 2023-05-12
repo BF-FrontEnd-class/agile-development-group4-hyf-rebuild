@@ -22,20 +22,7 @@
     "achecker",
     "achecker",
     "Todos",
-    "Wireframes",
-    "Mamutov",
-    "Himanshi",
-    "Saxena",
-    "Komal",
-    "Rahwa",
-    "Kinfe",
-    "desciption",
-    "digitalents",
-    "Digitalents",
-    "theimg",
-    "continaing",
-    "privious",
-    "DIGITALENTS"
+    "Wireframes"
   ],
   "words": [
     "HackYourFutureBelgium",
@@ -126,12 +113,15 @@
     "Yodiz",
     "Zepel",
     "descri",
-    "descr",
+    "descr", "upskill", "anderstalige",
     "Christiaan",
     "Bilde",
     "Excalidraw",
-    "anderstalige",
-    "upskill"
+    "Wireframes",
+    "Bilde",
+    "Christiaan",
+    "Verwijs",
+    "Todos"
   ],
   "ignorePaths": [
     "node_modules/**",
