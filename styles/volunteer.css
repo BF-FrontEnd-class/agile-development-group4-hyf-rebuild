@@ -256,7 +256,6 @@
   font-family: "Space Mono", monospace;
   margin: 0 px;
   white-space: pre-wrap;
-  word-break: break-word;
   font-weight: 300;
 }
 
@@ -282,7 +281,6 @@
   font-family: "Space Mono", monospace;
   margin: 0 px;
   white-space: pre-wrap;
-  word-break: break-word;
   font-weight: 300;
 }
 
@@ -308,7 +306,6 @@
   font-family: "Space Mono", monospace;
   margin: 0 px;
   white-space: pre-wrap;
-  word-break: break-word;
   font-weight: 300;
 }
 
@@ -334,7 +331,6 @@
   font-family: "Space Mono", monospace;
   margin: 0 px;
   white-space: pre-wrap;
-  word-break: break-word;
   font-weight: 300;
 }
 
@@ -353,13 +349,6 @@
 }
 
 .paraghraph3 > b {
-  display: inline;
-  color: rgb(74, 80, 187);
-  font-weight: bold;
-  font-family: "Space Mono", monospace;
-}
-
-.paraghraph4 > b {
   display: inline;
   color: rgb(74, 80, 187);
   font-weight: bold;
