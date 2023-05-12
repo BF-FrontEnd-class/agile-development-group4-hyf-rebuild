@@ -117,6 +117,12 @@ body {
   text-transform: uppercase;
   padding: 10px 20px;
   font-family: "Work Sans", sans-serif;
+  text-decoration: rgb(74, 80, 187) underline;
+}
+
+.menu__link-active:active {
+  color: rgb(74, 80, 187);
+  text-decoration: underline;
 }
 
 .menu__link {
@@ -131,6 +137,12 @@ body {
   font-family: "Work Sans", sans-serif;
 }
 
+.menu__link:hover {
+  color: rgb(74, 80, 187);
+  text-decoration: underline;
+  background-color: rgb(227, 227, 237);
+}
+
 .menu__link-blank {
   display: inline-flex;
   font-size: 12px;
@@ -143,6 +155,7 @@ body {
   border-radius: 4px;
   box-sizing: border-box;
   padding: 10px 20px;
+  margin-left: 10px;
   cursor: pointer;
   text-transform: uppercase;
   -webkit-box-align: center;
@@ -581,6 +594,10 @@ body {
   font-family: "Work Sans", sans-serif;
   background-color: transparent;
   color: rgb(74, 80, 187);
+}
+
+.single__block-link:hover {
+  background-color: rgb(227, 227, 237);
 }
 
 .single__block-picture {
