@@ -24,7 +24,7 @@ skills to pace their job search in the light of the market demand.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/screenshots.jpg)
 
 ## Technologies
 
@@ -40,7 +40,7 @@ skills to pace their job search in the light of the market demand.
 
 ## Status
 
-Project is: _done_
+Project is: _Done_
 
 ## Contact
 
