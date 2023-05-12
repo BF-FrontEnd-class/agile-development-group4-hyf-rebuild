@@ -12,7 +12,7 @@ Information about two personas
 
 - **Bio**:
 
-![Alex Green](../public/alex-green.png)
+![Alex Green](../public/img/alex-green.png)
 
 Alex Green, 25 years old
 
@@ -33,7 +33,7 @@ Alex Green, 25 years old
 
 **Bio**:
 
-![Fernando Stevenson](../public/fernando-stevenson.png)
+![Fernando Stevenson](../public/img/fernando-stevenson.png)
 
 Fernando Stevenson, 24 years old
 

@@ -15,7 +15,7 @@ control of their own lives and be an important change to their environment.
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Status](#status)
-  - [Group Members](#group-members)
+  - [Contact](#contact)
 
 ## General info
 
